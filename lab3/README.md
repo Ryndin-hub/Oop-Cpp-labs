@@ -1,0 +1,1 @@
+Task: create game there one robot should collect apples and another should defuse mines. Create an algorithm to do it automatically.

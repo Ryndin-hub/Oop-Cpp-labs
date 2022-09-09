@@ -1,0 +1,1 @@
+Task: create class in c++ that could be used to store RNK.
